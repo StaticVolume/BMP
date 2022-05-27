@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/BMP_Pro.dir/main.cpp.o CMakeFiles/BMP_Pro.dir/image.cpp.o -o BMP_Pro  -lcurses /usr/lib64/libform.so 
